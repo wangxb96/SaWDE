@@ -1,6 +1,9 @@
 # Paper: A self-adaptive weighted differential evolution approach for large-scale feature selection
-## Availiable link
-https://www.sciencedirect.com/science/article/pii/S0950705121008959#!
+## Available Link
+**Link1**: https://www.sciencedirect.com/science/article/pii/S0950705121008959#!
+
+**Link2**: https://www.wangxubin.site/Paper/SaWDE-KBS.pdf
+
 ## Framework
 ![](https://github.com/wangxb96/SaWDE/blob/master/framework.png)
 ## Abstract
