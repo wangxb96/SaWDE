@@ -14,12 +14,13 @@ Recently, many evolutionary computation methods have been developed to solve the
 - CSGSTest.m is used to test the performance of each strategy.
 ## Cite
 ```
-@article{wang2021self,
+@article{wang2022self,
   title={A self-adaptive weighted differential evolution approach for large-scale feature selection},
   author={Wang, Xubin and Wang, Yunhe and Wong, Ka-Chun and Li, Xiangtao},
   journal={Knowledge-Based Systems},
+  volume={235},
   pages={107633},
-  year={2021},
+  year={2022},
   publisher={Elsevier}
 }
 ```
