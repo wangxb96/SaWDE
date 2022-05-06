@@ -12,7 +12,7 @@ Recently, many evolutionary computation methods have been developed to solve the
 - SaWDE.m is the main function
 - DataPartition.m is used to randomly partition the original data into training sets and test sets with a ratio of 7 : 3.
 - CSGSTest.m is used to test the performance of each strategy.
-## Cite
+## Citation
 ```
 @article{wang2022self,
   title={A self-adaptive weighted differential evolution approach for large-scale feature selection},
