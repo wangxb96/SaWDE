@@ -25,4 +25,4 @@ Recently, many evolutionary computation methods have been developed to solve the
 }
 ```
 ## Contact 
-wangxb19@mails.jlu.edu.cn -- Jilin University
+wangxb19 at mails.jlu.edu.cn -- Jilin University
