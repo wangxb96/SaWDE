@@ -13,6 +13,7 @@ Recently, many evolutionary computation methods have been developed to solve the
   - The code "MaxFESpre = 1000000; % Function Evaluation Times" on line 63 in SaWDE.m is the number of iterations in the paper. You can modify it to suit your requirements.
 - DataPartition.m is used to randomly partition the original data into training sets and test sets with a ratio of 7 : 3.
 - CSGSTest.m is used to test the performance of each strategy.
+- This project was developped with **MATLAB 2018b**. Early versions of MATLAB may have incompatibilities.
 ## Citation
 ```
 @article{wang2022self,
