@@ -11,8 +11,24 @@ Recently, many evolutionary computation methods have been developed to solve the
 ## Instructions
 - SaWDE.m is the main function
   - The code "MaxFESpre = 1000000; % Function Evaluation Times" on line 63 in SaWDE.m is the number of iterations in the paper. You can modify it to suit your requirements.
+  - How to load your own data? You can try the way used in SaWDE.m or the following method:
+    ```
+      traindata = load(['C:\Users\c\Desktop\SaWDE\train\',p_name]);
+      traindata = getfield(traindata, p_name);
+      data = traindata;
+      feat = data(:,1:end-1); 
+      label = data(:,end);
+    ```
+      
 - DataPartition.m is used to randomly partition the original data into training sets and test sets with a ratio of 7 : 3.
 - CSGSTest.m is used to test the performance of each strategy.
+- CoDE1.m - CoDE10.m are the strategies used in our study. The following files are the related dependency files for our strategies:
+  - getStrategyOnRoulette.m
+  - gnR1R2.m
+  - ldrc.m
+  - randFCR.m
+  - updateArchive.m
+## Dependencies
 - This project was developped with **MATLAB 2018b**. Early versions of MATLAB may have incompatibilities.
 ## Citation
 ```
