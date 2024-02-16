@@ -41,7 +41,7 @@ Overview of the proposed SaWDE algorithm. The initialized population $P$ is divi
   - randFCR.m
   - updateArchive.m
 ## Dependencies
-- This project was developped with **MATLAB 2018b**. Early versions of MATLAB may have incompatibilities.
+- This project was developed with **MATLAB 2018b**. Early versions of MATLAB may have incompatibilities.
 ## Citation
 ```
 @article{wang2022self,
