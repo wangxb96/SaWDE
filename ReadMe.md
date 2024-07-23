@@ -8,7 +8,7 @@
 
 <sup>*</sup>corresponding authors
 
-[**Paper**](https://www.wangxubin.site/Paper/SaWDE-KBS.pdf) · [**Code**](https://github.com/wangxb96/HSNOE)
+[**Paper**](https://www.wangxubin.site/paper/SaWDE-KBS.pdf) · [**Code**](https://github.com/wangxb96/HSNOE)
 
 </div>
 
